@@ -10,6 +10,6 @@ SecondTimer 120.0//Максимальное количество секунд, �
 
 # ScreenShots
 <p align="center">
-  <img src="https://forum.myarena.ru/uploads/monthly_09_2022/post-39277-0-27619000-1662360031.jpg">
-   <img src="https://forum.myarena.ru/uploads/monthly_09_2022/post-39277-0-57818400-1662360041.jpg">
+  <img src="https://imgur.com/6Ff5UMC">
+   <img src="https://imgur.com/1N9jSjJ">
 </p>
