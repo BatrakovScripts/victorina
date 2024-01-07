@@ -8,8 +8,7 @@ MaxScore 2000//Максимальное количество очков.
 MaxNum 100//Максимальное число.
 SecondTimer 120.0//Максимальное количество секунд, через сколько появится сообщение. default 120сек = 2минуты.*
 
-# ScreenShots
 <p align="center">
-  <img src="https://imgur.com/6Ff5UMC">
-   <img src="https://imgur.com/1N9jSjJ">
+  <img src="https://i.imgur.com/6Ff5UMC.jpeg">
+   <img src="https://i.imgur.com/1N9jSjJ.jpeg">
 </p>
